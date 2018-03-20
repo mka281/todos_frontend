@@ -29,8 +29,8 @@ class TodoForm extends Component {
          Add Todo
         </button>
       </div>
-    )
+    );
   }
 }
 
-export default TodoForm;
+export default TodoForm
