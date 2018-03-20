@@ -6,7 +6,6 @@ const TodoItem = ({name, completed}) => (
             textDecoration: completed ? 'line-through' : 'none'
         }}
     >
-    
         {name}
     </li>
 );
